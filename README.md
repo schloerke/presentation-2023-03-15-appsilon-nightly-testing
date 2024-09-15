@@ -14,6 +14,8 @@ http://schloerke.com/presentation-2023-03-15-appsilon-nightly-testing/
 * PDF:
 http://schloerke.com/presentation-2023-03-15-appsilon-nightly-testing/appsilon-nightly-testing.pdf
 
+* Recording: https://www.youtube.com/watch?v=WQ_sbmR-IPQ&list=PLexAKolMzPcriOdeLwoMxQOyHRnMguEv4&index=8
+
 
 ## Resources for learning more
 
